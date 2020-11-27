@@ -49,7 +49,7 @@ end
 end
 end
 end)
-section1:addButton("Hitbox expander", function()
+section1:addButton("Hitbox expander (NOT WORKING FOR NOW)", function()
     while wait(0.5) do
         end
 local cum = workspace:getDescendants()
